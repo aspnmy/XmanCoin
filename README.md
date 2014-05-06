@@ -2,7 +2,7 @@
 
 XmenCoin - ITC
 
-XmenCoin is a pure PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial 1 billion coins, no PoW mining will get any coins. The 1 billion coins will be distributed equally to 1000 individuals with 1 million coins each, completely free based on the subscriptions in facebook, cryptocointalk and ecoiner website. 
+XmenCoin is a pure PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial 70000000 coins, no PoW mining will get any coins.  Completely free based on the subscriptions in facebook, cryptocointalk and ecoiner website. 
 
 Equal distribution to the WHOLE community. Each person gets 1 mil coins, including each person in the dev team. Dev team gets absolutely no more than anyone else! It is the community coin! While the dev team will maintain and enhance the code and fix any issues, it is the community which will promote and market the coin.  
 
@@ -23,7 +23,7 @@ Starting from Year-6: 1% annual interest for maintnance.
 100% Premine.
 
 Ports:
-connection:	20801
-RPC:			20802
+connection:	42158
+RPC:			42157
 
 
