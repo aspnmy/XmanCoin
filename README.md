@@ -1,0 +1,4 @@
+XmanCoin
+========
+
+XmanCoin For POS 
