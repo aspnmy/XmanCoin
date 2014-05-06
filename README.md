@@ -26,11 +26,4 @@ Ports:
 connection:	20801
 RPC:			20802
 
-Listen for connections on <port> (default: 12158 or testnet: 30811)"
-Listen for JSON-RPC connections on <port> (default: 12157 or testnet: 30812)
-=======
-XmenCoin
-========
 
-XmenCoin For POS 
->>>>>>> 96bf3b79865d71b9e3950e359c68111aa65128f1
